@@ -1,3 +1,3 @@
-# Major-Project-Data-Analysis
+## Health Data and Enhanced Patient Engagement: Ethical Use of Data Analysis in Improving Stroke Patients Outcomes.
 
 With the vast amount of medical data available, there is an opportunity to identify trends and patterns that can significantly improve patient outcomes. Using this data, healthcare providers can identify risk factors, identify early warning signs of disease, and create treatment plans tailored to each patient's unique needs. The focus of healthcare research and policy practices is moving towards patient engagement, and it is now recognised widely as a key component of quality healthcare systems. This project analyzes a public health stroke data showing patients' clinical features. 
